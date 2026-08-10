@@ -11,7 +11,7 @@ if(user.telegramid != 7651404790){
 }
 
 let API_URL = "https://smmcloud.uz/Smm_hizmatlar_tezkor_bot/api/v2"
-let API_KEY = "YOUR_API_KEY"
+let API_KEY = "hOoz3OxHcSclvjuPobcOoTd4xRqqgenL"
 
 HTTP.post({
   url: API_URL,
